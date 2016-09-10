@@ -20,3 +20,7 @@ PLATFORMS
 DEPENDENCIES
   heroku
   rack
+  archive-tar-minitar
+  nokogiri
+  rcov
+  hoe
