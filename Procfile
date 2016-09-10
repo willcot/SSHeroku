@@ -1,2 +1,2 @@
-web:  bundle exec rackup -p $PORT config.ru
+web:  rackup -p $PORT
 sshd: bin/sshd.sh
